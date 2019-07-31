@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[24,)"
+issueTrackerURL="https://github.com/Laton95/Pyramid-Plunder/issues"
+logoFile="slimevacuum.png"
+
+[[mods]]
+modId="slimevacuum"
+version="${version}"
+displayURL="https://minecraft.curseforge.com/projects/pyramid-plunder"
+displayName="Slime Vacuum"
+authors="Laton95"
+description='''
+Adds a tool to suck the slime out of slimes without killing them.
+'''
+
+[[dependencies.slimevacuum]]
+    modId="forge"
+    mandatory=true
+    versionRange="[${forge_version},)"
+    ordering="NONE"
+    side="BOTH"
