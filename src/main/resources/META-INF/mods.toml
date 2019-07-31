@@ -1,12 +1,12 @@
 modLoader="javafml"
 loaderVersion="[24,)"
-issueTrackerURL="https://github.com/Laton95/Pyramid-Plunder/issues"
+issueTrackerURL="https://github.com/Laton95/Slime-Vacuum/issues"
 logoFile="slimevacuum.png"
 
 [[mods]]
 modId="slimevacuum"
 version="${version}"
-displayURL="https://minecraft.curseforge.com/projects/pyramid-plunder"
+displayURL="https://minecraft.curseforge.com/projects/slime-vacuum"
 displayName="Slime Vacuum"
 authors="Laton95"
 description='''
